@@ -1,10 +1,5 @@
-Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5
-YouTube
-
-🌟 Become a top 1% Next.js 13 developer in only one course
-🚀 Land your dream programming job in 6 months
-Showcase your dev skills with practical experience and land the coding career of your dreams
-💻 Code With GS Tech - https://youtube.com/@codewithgstech?si=BO58HflLkayhIeSM ✅ A special YOUTUBE discount code is automatically applied!
+To view a video tutorials of all projects subscribe my yt channel link 👇
+💻 Code With GS Tech - https://youtube.com/@codewithgstech?si=BO58HflLkayhIeSM ✅
 
 📙 Get the Ultimate Frontend & Backend Development Roadmaps, a Complete JavaScript Cheatsheet, Portfolio Tips, and more - https://www.jsmastery.pro/links
 <!--
@@ -12,12 +7,12 @@ Showcase your dev skills with practical experience and land the coding career of
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... Microsoft 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🤔 I’m looking for help with ... Subscribers on My Youtube Channel.
+- 💬 Ask me about ... Coding 
+- 📫 How to reach me: ...Gmail ID: gauravblsharma2007@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... Coding is very curious.
 -->
